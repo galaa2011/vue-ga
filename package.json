@@ -2,9 +2,9 @@
   "name": "vue-ga",
   "version": "1.0.0",
   "description": "Vue tool for generating ads framework",
-  "main": "./bin/ga-cli.js",
+  "main": "./bin/ga-cli",
   "bin": {
-    "ga": "./bin/ga-cli.js"
+    "ga": "./bin/ga-cli"
   },
   "scripts": {
     "test": "echo 'test'"
