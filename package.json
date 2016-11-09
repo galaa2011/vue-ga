@@ -22,7 +22,7 @@
     "url": "https://github.com/galaa2011/vue-ga/issues"
   },
   "homepage": "https://github.com/galaa2011/vue-ga#readme",
-  "devDependencies": {
+  "dependencies": {
     "handlebars": "^4.0.5",
     "mkdirp": "^0.5.1"
   }
