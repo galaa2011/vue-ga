@@ -4,7 +4,6 @@ Vue tool for generating ads framework
 ### 快速开始
 `npm i -g https://github.com/galaa2011/vue-ga.git`
 
-#### create
 #### 基础格式
 `ga create <type> [path] [-f]`
 
